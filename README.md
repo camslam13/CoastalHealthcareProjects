@@ -4,5 +4,5 @@ This houses the projects page for coastal healthcare svs.
 
 This is a test.
 
-![Image Alt Text](https://github.com/camslam13/CoastalHealthcareProjects/blob/main/images/Ryan-3.jpg)
+![Image Alt Text]([Imgur](https://i.imgur.com/235EV9O.jpg))
 
