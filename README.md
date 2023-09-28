@@ -1,4 +1,8 @@
-<!-- HTML comment: This is an example of using HTML in a Markdown file -->
+# CoastalHealthcareProjects
 
-<img src="https://imgur.com/a/yRfL73S" alt="Image Alt Text">
+This houses the projects page for coastal healthcare svs.
+
+This is a test.
+
+![Image Alt Text](https://imgur.com/your-image-id)
 
