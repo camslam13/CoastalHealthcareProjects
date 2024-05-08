@@ -8,13 +8,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis ex vel velit 
 
 # Project 2
 
-![Project 2 Image](project2_image.jpg)
+![Project 2 Image](project2/Image.png)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis ex vel velit convallis dictum. Integer nec lorem id odio sodales pretium. Proin auctor, velit ac convallis faucibus, ipsum sem consequat libero, ut molestie libero quam sit amet ligula. Sed ac nunc consectetur, consequat lorem sed, fringilla arcu. Donec non nibh nunc. Vestibulum nec ipsum a nibh rutrum sodales nec nec orci. Nam nec nibh eget libero vestibulum laoreet. Pellentesque aliquet sapien quam, vel malesuada nisl volutpat eget.
 
 # Project 3
 
-![Project 3 Image](project3_image.jpg)
+![Project 3 Image](project3/Image.png)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis ex vel velit convallis dictum. Integer nec lorem id odio sodales pretium. Proin auctor, velit ac convallis faucibus, ipsum sem consequat libero, ut molestie libero quam sit amet ligula. Sed ac nunc consectetur, consequat lorem sed, fringilla arcu. Donec non nibh nunc. Vestibulum nec ipsum a nibh rutrum sodales nec nec orci. Nam nec nibh eget libero vestibulum laoreet. Pellentesque aliquet sapien quam, vel malesuada nisl volutpat eget.
 
