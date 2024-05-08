@@ -2,7 +2,7 @@
 
 # Project 1
 
-![Project 1 Image](project1_image.png)
+![Project 1 Image](project1/Image.png)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis ex vel velit convallis dictum. Integer nec lorem id odio sodales pretium. Proin auctor, velit ac convallis faucibus, ipsum sem consequat libero, ut molestie libero quam sit amet ligula. Sed ac nunc consectetur, consequat lorem sed, fringilla arcu. Donec non nibh nunc. Vestibulum nec ipsum a nibh rutrum sodales nec nec orci. Nam nec nibh eget libero vestibulum laoreet. Pellentesque aliquet sapien quam, vel malesuada nisl volutpat eget.
 
