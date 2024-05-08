@@ -2,7 +2,7 @@
 
 # Project 1
 
-<img src="https://i.imgur.com/235EV9O.jpg" alt="Alt text" width="200" height="200">
+<img src="https://i.imgur.com/235EV9O.jpg" alt="Alt text" width="200">
 ![Alt text](https://i.imgur.com/235EV9O.jpg){:width="200px" height="200px"}
 
 
